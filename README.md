@@ -12,7 +12,7 @@ A new Flutter project.
 ![image_02](https://github.com/busingepius/restaurant/blob/main/screenshoots/image_02.jpg)
 
 #### Video:
-![Watch the video](https://github.com/busingepius/restaurant/blob/main/screenshoots/video_01.mp4)
+[Watch the video](https://github.com/busingepius/restaurant/blob/main/screenshoots/video_01.mp4)
 
 #### Packages:
 - flutter_riverpod: ^2.5.1
