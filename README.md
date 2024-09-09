@@ -1,16 +1,24 @@
-# fate
+# Rate restaurant application
 
 A new Flutter project.
 
-## Getting Started
+#### Features:
+- Cuisine restaurant
+- Names of Restaurant
+- Filtering by name
 
-This project is a starting point for a Flutter application.
+#### Screenshots:
+![Screenshot_2021-07-07-21-45-57-01](https://user-images.githubusercontent.com/57314430/124798073-4b3b1b00-df6b-11eb-8b3b-4b3b3b3b3b3b.png)
+![Screenshot_2021-07-07-21-46-02-01](https://user-images.githubusercontent.com/57314430/124798080-4d04de80-df6b-11eb-8b3b-4b3b3b3b3b3b.png)
 
-A few resources to get you started if this is your first Flutter project:
+#### Video:
+https://user-images.githubusercontent.com/57314430/124798116-5a21cd80-df6b-11eb-8b3b-4b3b3b3b3b3b.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#### Packages:
+- flutter_riverpod: ^2.5.1
+- http: ^1.2.2
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Installation:
+- Get the packages: `flutter pub get`
+- Run the app: `flutter run`
+- Build the app: `flutter build apk`
