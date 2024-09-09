@@ -1,5 +1,5 @@
 
-// MyData model
+// Menu model
 class Menu {
   final int id;
   final String name;
